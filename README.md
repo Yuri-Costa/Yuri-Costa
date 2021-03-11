@@ -48,6 +48,7 @@
 - genially
 - TypeForm
 - Figma
+- Vegas
 
 📫 For contact yuri342costa@gmail.com
 -----------------------------------------
