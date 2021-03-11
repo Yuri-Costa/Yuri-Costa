@@ -46,7 +46,7 @@
 - Excel
 - PowerPoint
 - Word
-- genial.ly
+- Genial.ly
 - TypeForm
 - Figma
 - SonyVegas
