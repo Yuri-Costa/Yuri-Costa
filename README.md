@@ -31,7 +31,7 @@
 
 
 
-![DEV2](https://media.giphy.com/media/eGlWh8b2oDeSuFjGM6/giphy.gif)
+![DEV2](https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif)
 
 ### *Languages and Tools:*
 - C#
