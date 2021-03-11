@@ -11,7 +11,7 @@
 
     💬 Ask me about 18y
 
-    📫 How to reach me @z__yuri
+    📫 How to reach me @Yuri-Costa
     
     
 
