@@ -2,6 +2,6 @@
 
 
 # *I'm Yuri! *
-![Matrix](https://giphy.com/gifs/iIqmM5tTjmpOB9mpbn/html5)
+![Matrix](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 
