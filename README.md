@@ -26,7 +26,7 @@
 🇰🇷 Black belt in taekwondo
 
 
-📫 For contact ![Clique aqui](https://mail.google.com/yuri342costa@gmail.com)
+📫 For contact ![Clique aqui](https://mail.google.com/mail/yuri342costa@gmail.com)
     
 
 
