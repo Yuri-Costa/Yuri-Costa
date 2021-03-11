@@ -47,6 +47,7 @@
 - Word
 - genially
 - TypeForm
+- Figma
 
 📫 For contact yuri342costa@gmail.com
 -----------------------------------------
