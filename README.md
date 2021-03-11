@@ -5,7 +5,7 @@
 ![DEV](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 
-   👨🏻‍💻 Yuri Costa Camilo
+   👨🏻‍💻 *Yuri Costa Camilo*
 
    🇧🇷 Brazilian
 
@@ -27,6 +27,27 @@
 
 
 📫 For contact yuri342costa@gmail.com
+
+
+![DEV2](https://media.giphy.com/media/eGlWh8b2oDeSuFjGM6/giphy.gif)
+
+💻##Languages and Tools:
+- C#
+- Html5
+- Css3
+- Dotnet
+- MySql
+- Git
+- Photoshop
+- Trello
+- Excel
+- PowerPoint
+- Word
+- genially
+- TypeForm
+
+
+
     
 
 
