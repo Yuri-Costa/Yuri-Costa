@@ -5,14 +5,27 @@
 ![DEV](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 
-    🔭 I’m currently working on Senai de Informática
+    👨🏻‍💻 Yuri Costa Camilo
 
-    🌱 I’m currently learning A Desenvolver
+   🇧🇷 Brazilian
 
-    💬 Ask me about 18y
+👦🏻 I'm 18 years old
 
-    📫 How to reach me @Yuri-Costa
-    
+👨🏻‍🎓 I am currently studying at Senai de Informática
+
+🌱 I am currently learning Development
+
+👦🏻 I'm 18 years old
+
+🎵 love listening to music
+
+🏊🏻 I love playing sports
+
+❤️ I love watching anime
+
+🇰🇷 Black belt in taekwondo
+
+📫 For contact ![Clique aqui](yuri342costa@gmail.com)
     
 
 
