@@ -9,13 +9,10 @@
 
    🇧🇷 Brazilian
 
-👦🏻 I'm 18 years old
+👦🏻 I'm 18 years old                                                      🌱 I am currently learning Development
 
-👨🏻‍🎓 I am currently studying at Senai de Informática
+👨🏻‍🎓 I am currently studying at Senai de Informática                    🏻 I'm 18 years old
 
-🌱 I am currently learning Development
-
-👦🏻 I'm 18 years old
 
 🎵 love listening to music
 
