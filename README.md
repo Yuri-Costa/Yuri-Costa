@@ -5,14 +5,17 @@
 ![DEV](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 
-    👨🏻‍💻 Yuri Costa Camilo
+   👨🏻‍💻 Yuri Costa Camilo
 
    🇧🇷 Brazilian
 
-👦🏻 I'm 18 years old                                                                                                    🌱 I am currently learning Development
+👦🏻 I'm 18 years old
 
-👨🏻‍🎓 I am currently studying at Senai de Informática                                                                   🏻 I'm 18 years old
+👨🏻‍🎓 I am currently studying at Senai de Informática
 
+🌱 I am currently learning Development
+
+👦🏻 I'm 18 years old
 
 🎵 love listening to music
 
@@ -22,7 +25,8 @@
 
 🇰🇷 Black belt in taekwondo
 
-📫 For contact ![Clique aqui](yuri342costa@gmail.com)
+
+📫 For contact ![Clique aqui](https://mail.google.com/yuri342costa@gmail.com)
     
 
 
