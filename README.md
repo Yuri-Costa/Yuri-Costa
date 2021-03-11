@@ -26,14 +26,14 @@
 🇰🇷 Black belt in taekwondo
 
 📫 For contact yuri342costa@gmail.com
-
+-----------------------------------------
 
 
 
 
 ![DEV2](https://media.giphy.com/media/eGlWh8b2oDeSuFjGM6/giphy.gif)
 
-💻 ##Languages and Tools:
+###Languages and Tools:
 - C#
 - Html5
 - Css3
