@@ -33,7 +33,7 @@
 
 ![DEV2](https://media.giphy.com/media/eGlWh8b2oDeSuFjGM6/giphy.gif)
 
-### *Languages and Tools:*
+💻 ### *Languages and Tools:*
 - C#
 - Html5
 - Css3
