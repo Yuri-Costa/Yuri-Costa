@@ -46,10 +46,11 @@
 - Excel
 - PowerPoint
 - Word
-- genially
+- genial.ly
 - TypeForm
 - Figma
 - SonyVegas
+- Draw.io
 
 📫 For contact yuri342costa@gmail.com
 -----------------------------------------
