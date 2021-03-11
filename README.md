@@ -49,7 +49,7 @@
 - genially
 - TypeForm
 - Figma
-- Vegas
+- SonyVegas
 
 📫 For contact yuri342costa@gmail.com
 -----------------------------------------
