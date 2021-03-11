@@ -1,7 +1,7 @@
 # Be very welcome 👋
 
 
-### *I'm Yuri! *
+### *I'm Yuri!*
 ![DEV](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 
