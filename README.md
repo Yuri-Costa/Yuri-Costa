@@ -21,11 +21,16 @@
 ### *Languages and Tools:*
 <![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![CSS3](https://img.shields.io/badge/-Css3-000?&logo=CSS3)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=C-SHARP)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=JAVASCRIPT)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft)
 ![GitHub](https://img.shields.io/badge/-Github-000?&logo=Github)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft)
+![GitHub](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Azure Devops](https://img.shields.io/badge/-Devops-000?&logo=Microsoft)
+![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello)
+![Trello](https://img.shields.io/appveyor/build/Photo/44?logo=Photoshop&logoColor=people)
+
    ------------------------------------------------------
 - Git
 - C#      
