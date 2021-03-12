@@ -12,7 +12,7 @@
    🏊🏻 I love playing sports || ❤️ I love watching anime || 🇰🇷 Black belt in taekwondo
 
 
-<p align="left"> <a href="https://github.com/Yuri-Costa/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuri-Costa" alt="Yuri-costa" /></a> </p>
+<p align="left"> <a href="https://github.com/Yuri-Costa/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuri-Costa=ryo-ma&theme=dracula" alt="Yuri-costa" /></a> </p>
 https://github-profile-trophy.vercel.app/?Yuri-Costa=ryo-ma&theme=dracula
 
 <p align="left"> <a href="https://github.com/Yuri-Costa/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?Yuri-Costa=ryo-ma&theme=dracula" alt="Yuri-costa" /></a> </p>
