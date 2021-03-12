@@ -8,23 +8,12 @@
 
    👨🏻‍💻 *Yuri Costa Camilo*
 
-   🇧🇷 Brazilian
+   🇧🇷 Brazilian || 👦🏻 I'm 18 years old || 🎓 I am currently studying at Senai de Informática
+   🌱 I am currently learning Development || 🎵 love listening to music
+   🏊🏻 I love playing sports || ❤️ I love watching anime || 🇰🇷 Black belt in taekwondo
 
-👦🏻 I'm 18 years old
 
-👨🏻‍🎓 I am currently studying at Senai de Informática
-
-🌱 I am currently learning Development
-
-👦🏻 I'm 18 years old
-
-🎵 love listening to music
-
-🏊🏻 I love playing sports
-
-❤️ I love watching anime
-
-🇰🇷 Black belt in taekwondo
+<p align="left"> <a href="https://github.com/Yuri-Costa/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuri-Costa" alt="Yuri-costa" /></a> </p>
 
 
 --------------------------------------------------
