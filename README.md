@@ -27,12 +27,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft)
 ![GitHub](https://img.shields.io/badge/-Github-000?&logo=Github)
    ------------------------------------------------------
-   
+- Git
 - C#      
 - Html5   
 - Css3
 - Dotnet
-- MySql                                            ![DEV2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+- MySql                                           
 - Git
 - Photoshop
 - Trello
