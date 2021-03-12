@@ -21,8 +21,6 @@
 ### *Languages and Tools:*
 <![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Javascript](https://img.shields.io/badge/-JAVASCRIPT-000?&logo=JAVASCRIPT)
-![HTML5](https://img.shields.io/badge/-Html5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-Css3-000?&logo=CSS3)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=C-SHARP)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=JAVASCRIPT)
@@ -34,7 +32,7 @@
 - Html5   
 - Css3
 - Dotnet
-- MySql
+- MySql ![DEV2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 - Git
 - Photoshop
 - Trello
