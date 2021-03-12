@@ -19,7 +19,7 @@
 
 
 
-![DEV](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+<p align="center">![DEV](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)</p>
 ### *Languages and Tools:*
 ![HTML5](https://img.shields.io/badge/-HTML5-blueviolet)
 ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet)
