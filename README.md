@@ -19,37 +19,22 @@
 --------------------------------------------------
 
 ### *Languages and Tools:*
-<![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=C-SHARP)
-![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=JAVASCRIPT)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft)
-![GitHub](https://img.shields.io/badge/-Github-000?&logo=Github)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft)
-![GitHub](https://img.shields.io/badge/-Github-000?&logo=Github)
-![Azure Devops](https://img.shields.io/badge/-Devops-000?&logo=Microsoft)
-![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello)
-![Trello](https://img.shields.io/badge/-PHOTOSHOP-blueviolet)
-![Trello](https://img.shields.io/badge/-GIT-blueviolet)
+<![HTML5](https://img.shields.io/badge/-HTML5-blueviolet)
+![CSS3](https://img.shields.io/badge/-CSS3-blueviolet)
+![C#](https://img.shields.io/badge/-CSHARP-blueviolet)
+![SQL](https://img.shields.io/badge/-MYSQL-blueviolet)
+![Trello](https://img.shields.io/badge/-TRELLO-blueviolet)
+![photo](https://img.shields.io/badge/-PHOTOSHOP-blueviolet)
+![git](https://img.shields.io/badge/-GIT-blueviolet)
+![dotnet](https://img.shields.io/badge/-DOTNET-blueviolet)
+![EXCEL](https://img.shields.io/badge/-EXCEL-blueviolet)
+![PowerPoint](https://img.shields.io/badge/-POWERPOINT-blueviolet)
+![WORD](https://img.shields.io/badge/-WORD-blueviolet)
+![GENIAL.LY](https://img.shields.io/badge/-GENIAL.LY-blueviolet)
+![TYPEFORM](https://img.shields.io/badge/-TYPEFORM-blueviolet)
+![DRAWIO](https://img.shields.io/badge/-DRAW.IO-blueviolet)
+![SONY](https://img.shields.io/badge/-SONY%20VEGAS-blueviolet)
 
-   ------------------------------------------------------
-- Git
-- C#      
-- Html5   
-- Css3
-- Dotnet
-- MySql                                           
-- Git
-- Photoshop
-- Trello
-- Excel
-- PowerPoint
-- Word
-- Genial.ly
-- TypeForm
-- Figma
-- SonyVegas
-- Draw.io
 
 <a href="https://github.com/Yuri-Camilo/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuri-Costa&show_icons=true" />
