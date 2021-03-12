@@ -14,8 +14,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuri-Costa&label=Profile%20views&color=blueviolet&style=flat" alt="Yuri-Costa" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuri-Costa&theme=dracula
- /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=Yuri-Costa" alt="Yuri-Costa" /></a> </p>
 
 
 
