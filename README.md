@@ -24,13 +24,22 @@
 ![DEV2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ### *Languages and Tools:*
-<div style="display-flex: justify-content: space-between">
-    <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-    <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">  
-    <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-    <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-    <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-   </div>
+<![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![C#](https://img.shields.io/badge/-CSHARP-000?&logo=C-SHARP)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Javascript](https://img.shields.io/badge/-JAVASCRIPT-000?&logo=JAVASCRIPT)
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-000?&logo=BOOTSTRAP)
+![HTML5](https://img.shields.io/badge/-Html5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-Css3-000?&logo=CSS3)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=C-SHARP)
+![React](https://img.shields.io/badge/-ReactJS-000?&logo=React)
+![React](https://img.shields.io/badge/-ReactNative-000?&logo=React)
+![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=JAVASCRIPT)
+![Bootstrap](https://img.shields.io/badge/-BootStrap-000?&logo=BOOTSTRAP)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft)
+![GitHub](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Azure Devops](https://img.shields.io/badge/-Devops-000?&logo=Microsoft)
    ------------------------------------------------------
    
 - C#      
