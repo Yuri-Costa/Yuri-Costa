@@ -14,6 +14,8 @@
 
 <p align="left"> <a href="https://github.com/Yuri-Costa/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuri-Costa=ryo-ma&theme=dracula" alt="Yuri-costa" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?Yuri-Costa=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![DEV](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 ### *Languages and Tools:*
