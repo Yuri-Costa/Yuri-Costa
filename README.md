@@ -30,6 +30,7 @@
 ![Azure Devops](https://img.shields.io/badge/-Devops-000?&logo=Microsoft)
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello)
 ![Trello](https://img.shields.io/badge/-PHOTOSHOP-blueviolet)
+![Trello](https://img.shields.io/badge/-GIT-blueviolet)
 
    ------------------------------------------------------
 - Git
