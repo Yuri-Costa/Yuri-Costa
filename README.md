@@ -17,7 +17,7 @@
 
 
 --------------------------------------------------
-
+![DEV2](https://media.giphy.com/media/fwzWJPb0fgZ5Vhfi2o/giphy.gif)
 ### *Languages and Tools:*
 <![HTML5](https://img.shields.io/badge/-HTML5-blueviolet)
 ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet)
@@ -34,6 +34,8 @@
 ![TYPEFORM](https://img.shields.io/badge/-TYPEFORM-blueviolet)
 ![DRAWIO](https://img.shields.io/badge/-DRAW.IO-blueviolet)
 ![SONY](https://img.shields.io/badge/-SONY%20VEGAS-blueviolet)
+
+------------------------------------------------------------------------------------------------------------------
 
 
 <a href="https://github.com/Yuri-Camilo/github-readme-stats">
