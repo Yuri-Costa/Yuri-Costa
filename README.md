@@ -3,7 +3,6 @@
 
 
 ### *I'm Yuri!*
-![DEV2](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
 
 
    👨🏻‍💻 *Yuri Costa Camilo*
