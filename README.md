@@ -29,13 +29,6 @@
 
 --------------------------------------------------
 
-<a href="https://github.com/Yuri-Camilo/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuri-Costa&show_icons=true" />
-</a>
-<a href="https://github.com/Yuri-Costa/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Costa" />
-</a>
-
 
 
 
@@ -67,6 +60,14 @@
 - Figma
 - SonyVegas
 - Draw.io
+
+<a href="https://github.com/Yuri-Camilo/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yuri-Costa&show_icons=true" />
+</a>
+<a href="https://github.com/Yuri-Costa/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Costa" />
+</a>
+
 
 📫 For contact yuri342costa@gmail.com
 -----------------------------------------
