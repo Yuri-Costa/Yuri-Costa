@@ -43,8 +43,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Costa" />
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-Costa&show_icons=true&theme=radical)
 
-📫 For contact ![Gmail Badge](https://img.shields.io/badge/-yuri342costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuri342costa@gmail.com)
+
+📫 ### *For contact:* ![Gmail Badge](https://img.shields.io/badge/-yuri342costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuri342costa@gmail.com)
 
 
 
