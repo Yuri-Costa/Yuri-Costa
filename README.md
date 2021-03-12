@@ -51,8 +51,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuri-Costa&label=Profile%20views&color=blueviolet&style=flat" alt="Yuri-Costa" /> </p>
 
 ### *For contact*📫
-![Gmail Badge](https://img.shields.io/badge/-yuri342costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuri342costa@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-yuri342costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuri342costa@gmail.com)](mailto:yuri342costa@gmail.com)
 
 
 
