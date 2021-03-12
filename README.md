@@ -32,7 +32,7 @@
 - Html5   
 - Css3
 - Dotnet
-- MySql ![DEV2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+- MySql                                            ![DEV2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 - Git
 - Photoshop
 - Trello
