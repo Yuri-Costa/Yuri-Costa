@@ -17,7 +17,7 @@
 
 
 --------------------------------------------------
-![DEV2](https://media.giphy.com/media/fwzWJPb0fgZ5Vhfi2o/giphy.gif)
+![DEV2](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
 ### *Languages and Tools:*
 ![HTML5](https://img.shields.io/badge/-HTML5-blueviolet)
 ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet)
