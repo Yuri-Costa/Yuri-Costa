@@ -3,7 +3,7 @@
 
 
 ### *I'm Yuri!*
-![DEV](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+![DEV2](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
 
 
    👨🏻‍💻 *Yuri Costa Camilo*
@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://github.com/Yuri-Costa/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuri-Costa" alt="Yuri-costa" /></a> </p>
 
-
---------------------------------------------------
 ![DEV2](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
+--------------------------------------------------
+![DEV](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 ### *Languages and Tools:*
 ![HTML5](https://img.shields.io/badge/-HTML5-blueviolet)
 ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet)
@@ -46,7 +46,7 @@
 </a>
 
 
-📫 For contact yuri342costa@gmail.com
+📫 For contact [![Gmail Badge](https://img.shields.io/badge/-yuri342costa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuri342costa@gmail.com)](Meu Email)
 -----------------------------------------
 
 
