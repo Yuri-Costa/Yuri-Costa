@@ -18,11 +18,6 @@
 
 --------------------------------------------------
 
-
-
-
-![DEV2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
 ### *Languages and Tools:*
 <![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
