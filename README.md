@@ -36,7 +36,7 @@
 ![DRAWIO](https://img.shields.io/badge/-DRAW.IO-blueviolet)
 ![SONY](https://img.shields.io/badge/-SONY%20VEGAS-blueviolet)
 
-------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 
 <a href="https://github.com/Yuri-Camilo/github-readme-stats">
