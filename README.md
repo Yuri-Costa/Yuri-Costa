@@ -20,22 +20,7 @@
 ![DEV](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 
-#/[comment]: <>## *Languages and Tools:*
-[comment]: <>![HTML5](https://img.shields.io/badge/-HTML5-blueviolet)
-[comment]: <>![CSS3](https://img.shields.io/badge/-CSS3-blueviolet)
-[comment]: <>![C#](https://img.shields.io/badge/-CSHARP-blueviolet)
-[comment]: <>![SQL](https://img.shields.io/badge/-MYSQL-blueviolet)
-[comment]: <>![Trello](https://img.shields.io/badge/-TRELLO-blueviolet)
-[comment]: <>![photo](https://img.shields.io/badge/-PHOTOSHOP-blueviolet)
-[comment]: <>![git](https://img.shields.io/badge/-GIT-blueviolet)
-[comment]: <>![dotnet](https://img.shields.io/badge/-DOTNET-blueviolet)
-[comment]: <>![EXCEL](https://img.shields.io/badge/-EXCEL-blueviolet)
-[comment]: <>![PowerPoint](https://img.shields.io/badge/-POWERPOINT-blueviolet)
-[comment]: <>![WORD](https://img.shields.io/badge/-WORD-blueviolet)
-[comment]: <>![GENIAL.LY](https://img.shields.io/badge/-GENIAL.LY-blueviolet)
-[comment]: <>![TYPEFORM](https://img.shields.io/badge/-TYPEFORM-blueviolet)
-[comment]: <>![DRAWIO](https://img.shields.io/badge/-DRAW.IO-blueviolet)
-[comment]: <>![SONY](https://img.shields.io/badge/-SONY%20VEGAS-blueviolet)
+
 
 ----------------------------------------------------------------------------------------------------------------
 
